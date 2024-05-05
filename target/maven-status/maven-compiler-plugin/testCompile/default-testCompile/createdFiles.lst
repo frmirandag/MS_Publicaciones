@@ -1,0 +1,3 @@
+com\example\publicacion\PublicacionApplicationTests.class
+com\example\publicacion\Service\PublicacionServiceTest.class
+com\example\publicacion\Controller\PublicacionControllerTest.class
